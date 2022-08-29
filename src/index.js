@@ -17,5 +17,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(8080, () => {
-    console.log(`Servidor escutando na porta 8080`);
+    console.log(`Server startd on http://localhost:8080 🏆`);
 });
